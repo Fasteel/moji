@@ -1,0 +1,272 @@
+export default [
+  {
+    icon: "🎨",
+    description: "Improve structure / format of the code.",
+    code: ":art:",
+  },
+  { icon: "⚡️", description: "Improve performance.", code: ":zap:" },
+  { icon: "🔥", description: "Remove code or files.", code: ":fire:" },
+  { icon: "🐛", description: "Fix a bug.", code: ":bug:" },
+  { icon: "🚑️", description: "Critical hotfix.", code: ":ambulance:" },
+  {
+    icon: "✨",
+    description: "Introduce new features.",
+    code: ":sparkles:",
+  },
+  {
+    icon: "📝",
+    description: "Add or update documentation.",
+    code: ":memo:",
+  },
+  { icon: "🚀", description: "Deploy stuff.", code: ":rocket:" },
+  {
+    icon: "💄",
+    description: "Add or update the UI and style files.",
+    code: ":lipstick:",
+  },
+  { icon: "🎉", description: "Begin a project.", code: ":tada:" },
+  {
+    icon: "✅",
+    description: "Add, update, or pass tests.",
+    code: ":white_check_mark:",
+  },
+  { icon: "🔒️", description: "Fix security issues.", code: ":lock:" },
+  {
+    icon: "🔖",
+    description: "Release / Version tags.",
+    code: ":bookmark:",
+  },
+  {
+    icon: "🚨",
+    description: "Fix compiler / linter warnings.",
+    code: ":rotating_light:",
+  },
+  {
+    icon: "🚧",
+    description: "Work in progress.",
+    code: ":construction:",
+  },
+  { icon: "💚", description: "Fix CI Build.", code: ":green_heart:" },
+  {
+    icon: "⬇️",
+    description: "Downgrade dependencies.",
+    code: ":arrow_down:",
+  },
+  {
+    icon: "⬆️",
+    description: "Upgrade dependencies.",
+    code: ":arrow_up:",
+  },
+  {
+    icon: "📌",
+    description: "Pin dependencies to specific versions.",
+    code: ":pushpin:",
+  },
+  {
+    icon: "👷",
+    description: "Add or update CI build system.",
+    code: ":construction_worker:",
+  },
+  {
+    icon: "📈",
+    description: "Add or update analytics or track code.",
+    code: ":chart_with_upwards_trend:",
+  },
+  { icon: "♻️", description: "Refactor code.", code: ":recycle:" },
+  {
+    icon: "➕",
+    description: "Add a dependency.",
+    code: ":heavy_plus_sign:",
+  },
+  {
+    icon: "➖",
+    description: "Remove a dependency.",
+    code: ":heavy_minus_sign:",
+  },
+  {
+    icon: "🔧",
+    description: "Add or update configuration files.",
+    code: ":wrench:",
+  },
+  {
+    icon: "🔨",
+    description: "Add or update development scripts.",
+    code: ":hammer:",
+  },
+  {
+    icon: "🌐",
+    description: "Internationalization and localization.",
+    code: ":globe_with_meridians:",
+  },
+  { icon: "✏️", description: "Fix typos.", code: ":pencil2:" },
+  {
+    icon: "💩",
+    description: "Write bad code that needs to be improved.",
+    code: ":poop:",
+  },
+  { icon: "⏪️", description: "Revert changes.", code: ":rewind:" },
+  {
+    icon: "🔀",
+    description: "Merge branches.",
+    code: ":twisted_rightwards_arrows:",
+  },
+  {
+    icon: "📦️",
+    description: "Add or update compiled files or packages.",
+    code: ":package:",
+  },
+  {
+    icon: "👽️",
+    description: "Update code due to external API changes.",
+    code: ":alien:",
+  },
+  {
+    icon: "🚚",
+    description: "Move or rename resources (e.g.: files, paths, routes).",
+    code: ":truck:",
+  },
+  {
+    icon: "📄",
+    description: "Add or update license.",
+    code: ":page_facing_up:",
+  },
+  {
+    icon: "💥",
+    description: "Introduce breaking changes.",
+    code: ":boom:",
+  },
+  { icon: "🍱", description: "Add or update assets.", code: ":bento:" },
+  {
+    icon: "♿️",
+    description: "Improve accessibility.",
+    code: ":wheelchair:",
+  },
+  {
+    icon: "💡",
+    description: "Add or update comments in source code.",
+    code: ":bulb:",
+  },
+  { icon: "🍻", description: "Write code drunkenly.", code: ":beers:" },
+  {
+    icon: "💬",
+    description: "Add or update text and literals.",
+    code: ":speech_balloon:",
+  },
+  {
+    icon: "🗃️",
+    description: "Perform database related changes.",
+    code: ":card_file_box:",
+  },
+  {
+    icon: "🔊",
+    description: "Add or update logs.",
+    code: ":loud_sound:",
+  },
+  { icon: "🔇", description: "Remove logs.", code: ":mute:" },
+  {
+    icon: "👥",
+    description: "Add or update contributor(s).",
+    code: ":busts_in_silhouette:",
+  },
+  {
+    icon: "🚸",
+    description: "Improve user experience / usability.",
+    code: ":children_crossing:",
+  },
+  {
+    icon: "🏗️",
+    description: "Make architectural changes.",
+    code: ":building_construction:",
+  },
+  {
+    icon: "📱",
+    description: "Work on responsive design.",
+    code: ":iphone:",
+  },
+  { icon: "🤡", description: "Mock things.", code: ":clown_face:" },
+  {
+    icon: "🥚",
+    description: "Add or update an easter egg.",
+    code: ":egg:",
+  },
+  {
+    icon: "🙈",
+    description: "Add or update a .gitignore file.",
+    code: ":see_no_evil:",
+  },
+  {
+    icon: "📸",
+    description: "Add or update snapshots.",
+    code: ":camera_flash:",
+  },
+  {
+    icon: "⚗️",
+    description: "Perform experiments.",
+    code: ":alembic:",
+  },
+  { icon: "🔍️", description: "Improve SEO.", code: ":mag:" },
+  { icon: "🏷️", description: "Add or update types.", code: ":label:" },
+  {
+    icon: "🌱",
+    description: "Add or update seed files.",
+    code: ":seedling:",
+  },
+  {
+    icon: "🚩",
+    description: "Add, update, or remove feature flags.",
+    code: ":triangular_flag_on_post:",
+  },
+  { icon: "🥅", description: "Catch errors.", code: ":goal_net:" },
+  {
+    icon: "💫",
+    description: "Add or update animations and transitions.",
+    code: ":dizzy:",
+  },
+  {
+    icon: "🗑️",
+    description: "Deprecate code that needs to be cleaned up.",
+    code: ":wastebasket:",
+  },
+  {
+    icon: "🛂",
+    description:
+      "Work on code related to authorization, roles and permissions.",
+    code: ":passport_control:",
+  },
+  {
+    icon: "🩹",
+    description: "Simple fix for a non-critical issue.",
+    code: ":adhesive_bandage:",
+  },
+  {
+    icon: "🧐",
+    description: "Data exploration/inspection.",
+    code: ":monocle_face:",
+  },
+  { icon: "⚰️", description: "Remove dead code.", code: ":coffin:" },
+  {
+    icon: "🧪",
+    description: "Add a failing test.",
+    code: ":test_tube:",
+  },
+  {
+    icon: "👔",
+    description: "Add or update business logic",
+    code: ":necktie:",
+  },
+  {
+    icon: "🩺",
+    description: "Add or update healthcheck.",
+    code: ":stethoscope:",
+  },
+  {
+    icon: "🧱",
+    description: "Infrastructure related changes.",
+    code: ":bricks:",
+  },
+  {
+    icon: "🧑‍💻",
+    description: "Improve developer experience",
+    code: ":technologist:",
+  },
+];
